@@ -9,6 +9,6 @@ Steps to execute the Test cases:
 3) Verify the console output after the execution of each and evry test case.
 
 Report Verification:
-1) Verify the reports generated inside the ./reports/result.html
-   Inside the result.html expand each and every node available in the test case to get the screenshots.
-Example: Click on VerifyTeamsName and expand on "VerifyTeamsName" to get the screenshots.
+1) Verify the reports generated inside the ./reports/result.html location of Maven Project.
+2) Inside the result.html expand each and every node available in the test case to get the screenshots.
+Example: Click on VerifyTeamsName and expand on "VerifyTeamsName" tab to get the screenshots.
