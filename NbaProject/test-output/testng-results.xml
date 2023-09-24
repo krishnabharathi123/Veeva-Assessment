@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="6" total="10" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="96560" started-at="2023-09-24T22:13:48 IST" finished-at="2023-09-24T22:15:24 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="96560" started-at="2023-09-24T22:13:48 IST" finished-at="2023-09-24T22:15:24 IST">
+      <class name="com.nbaproject.testcases.VideoWatchVerification">
+        <test-method status="PASS" signature="configureData()[pri:0, instance:com.nbaproject.testcases.VideoWatchVerification@52525845]" name="configureData" is-config="true" duration-ms="0" started-at="2023-09-24T22:13:48 IST" finished-at="2023-09-24T22:13:48 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configureData -->
+        <test-method status="PASS" signature="report()[pri:0, instance:com.nbaproject.testcases.VideoWatchVerification@52525845]" name="report" is-config="true" duration-ms="0" started-at="2023-09-24T22:14:51 IST" finished-at="2023-09-24T22:14:51 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- report -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.nbaproject.testcases.VideoWatchVerification@52525845]" name="beforeMethod" is-config="true" duration-ms="9532" started-at="2023-09-24T22:14:51 IST" finished-at="2023-09-24T22:15:01 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="verifyVideoStreaming()[pri:0, instance:com.nbaproject.testcases.VideoWatchVerification@52525845]" name="verifyVideoStreaming" duration-ms="14187" started-at="2023-09-24T22:15:01 IST" finished-at="2023-09-24T22:15:15 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyVideoStreaming -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.nbaproject.testcases.VideoWatchVerification@52525845]" name="afterMethod" is-config="true" duration-ms="659" started-at="2023-09-24T22:15:15 IST" finished-at="2023-09-24T22:15:16 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- com.nbaproject.testcases.VideoWatchVerification -->
+      <class name="com.nbaproject.testcases.TeamNamesVerification">
+        <test-method status="PASS" signature="startReport()[pri:0, instance:com.nbaproject.testcases.TeamNamesVerification@17211155]" name="startReport" is-config="true" duration-ms="79" started-at="2023-09-24T22:13:48 IST" finished-at="2023-09-24T22:13:48 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startReport -->
+        <test-method status="PASS" signature="configureData()[pri:0, instance:com.nbaproject.testcases.TeamNamesVerification@17211155]" name="configureData" is-config="true" duration-ms="0" started-at="2023-09-24T22:13:48 IST" finished-at="2023-09-24T22:13:48 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configureData -->
+        <test-method status="PASS" signature="report()[pri:0, instance:com.nbaproject.testcases.TeamNamesVerification@17211155]" name="report" is-config="true" duration-ms="7" started-at="2023-09-24T22:13:48 IST" finished-at="2023-09-24T22:13:48 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- report -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.nbaproject.testcases.TeamNamesVerification@17211155]" name="beforeMethod" is-config="true" duration-ms="11003" started-at="2023-09-24T22:13:48 IST" finished-at="2023-09-24T22:13:59 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="verifyTeamNames()[pri:0, instance:com.nbaproject.testcases.TeamNamesVerification@17211155]" name="verifyTeamNames" duration-ms="8942" started-at="2023-09-24T22:13:59 IST" finished-at="2023-09-24T22:14:08 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyTeamNames -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.nbaproject.testcases.TeamNamesVerification@17211155]" name="afterMethod" is-config="true" duration-ms="691" started-at="2023-09-24T22:14:08 IST" finished-at="2023-09-24T22:14:09 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="stopReport()[pri:0, instance:com.nbaproject.testcases.TeamNamesVerification@17211155]" name="stopReport" is-config="true" duration-ms="204" started-at="2023-09-24T22:15:24 IST" finished-at="2023-09-24T22:15:25 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- stopReport -->
+      </class> <!-- com.nbaproject.testcases.TeamNamesVerification -->
+      <class name="com.nbaproject.testcases.SlideViewVerification">
+        <test-method status="PASS" signature="configureData()[pri:0, instance:com.nbaproject.testcases.SlideViewVerification@5123a213]" name="configureData" is-config="true" duration-ms="0" started-at="2023-09-24T22:13:48 IST" finished-at="2023-09-24T22:13:48 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configureData -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.nbaproject.testcases.SlideViewVerification@5123a213]" name="beforeMethod" is-config="true" duration-ms="5527" started-at="2023-09-24T22:14:09 IST" finished-at="2023-09-24T22:14:14 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="report()[pri:0, instance:com.nbaproject.testcases.SlideViewVerification@5123a213]" name="report" is-config="true" duration-ms="0" started-at="2023-09-24T22:14:09 IST" finished-at="2023-09-24T22:14:09 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- report -->
+        <test-method status="PASS" signature="verifySlideViewFunctionality()[pri:0, instance:com.nbaproject.testcases.SlideViewVerification@5123a213]" name="verifySlideViewFunctionality" duration-ms="36689" started-at="2023-09-24T22:14:14 IST" finished-at="2023-09-24T22:14:51 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifySlideViewFunctionality -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.nbaproject.testcases.SlideViewVerification@5123a213]" name="afterMethod" is-config="true" duration-ms="660" started-at="2023-09-24T22:14:51 IST" finished-at="2023-09-24T22:14:51 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- com.nbaproject.testcases.SlideViewVerification -->
+      <class name="com.nbaproject.testcases.LoadMoreVerification">
+        <test-method status="PASS" signature="configureData()[pri:0, instance:com.nbaproject.testcases.LoadMoreVerification@3b94d659]" name="configureData" is-config="true" duration-ms="0" started-at="2023-09-24T22:13:48 IST" finished-at="2023-09-24T22:13:48 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configureData -->
+        <test-method status="PASS" signature="report()[pri:0, instance:com.nbaproject.testcases.LoadMoreVerification@3b94d659]" name="report" is-config="true" duration-ms="0" started-at="2023-09-24T22:15:16 IST" finished-at="2023-09-24T22:15:16 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- report -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.nbaproject.testcases.LoadMoreVerification@3b94d659]" name="beforeMethod" is-config="true" duration-ms="4984" started-at="2023-09-24T22:15:16 IST" finished-at="2023-09-24T22:15:21 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="verifyLoadMoreFeature()[pri:0, instance:com.nbaproject.testcases.LoadMoreVerification@3b94d659]" name="verifyLoadMoreFeature" duration-ms="3000" started-at="2023-09-24T22:15:21 IST" finished-at="2023-09-24T22:15:24 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLoadMoreFeature -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.nbaproject.testcases.LoadMoreVerification@3b94d659]" name="afterMethod" is-config="true" duration-ms="653" started-at="2023-09-24T22:15:24 IST" finished-at="2023-09-24T22:15:24 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- com.nbaproject.testcases.LoadMoreVerification -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
