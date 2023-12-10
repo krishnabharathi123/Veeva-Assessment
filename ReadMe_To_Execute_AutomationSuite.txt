@@ -12,3 +12,5 @@ Report Verification:
 1) Verify the reports generated inside the ./reports/result.html location of Maven Project.
 2) Inside the result.html expand each and every node available in the test case to get the screenshots.
 Example: Click on VerifyTeamsName and expand on "VerifyTeamsName" tab to get the screenshots.
+
+Note: Add changes in master branch
