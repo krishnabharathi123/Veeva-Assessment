@@ -13,4 +13,6 @@ Report Verification:
 2) Inside the result.html expand each and every node available in the test case to get the screenshots.
 Example: Click on VerifyTeamsName and expand on "VerifyTeamsName" tab to get the screenshots.
 
+
 Note: Add changes in master branch
+>>>>>>> fd8d4f1b043bdc408f0533dd21a4fc4afbbed0af
